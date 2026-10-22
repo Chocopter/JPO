@@ -47,7 +47,7 @@ Les dépendances sont déjà incluses dans le dossier `lib/`, à côté des deux
 ## Installation et lancement
 
 ```bash
-git clone https://github.com/Chocopter/JPO.git
+git clone https://github.com/Adrian-Styzinski/JPO.git
 cd JPO
 ```
 
